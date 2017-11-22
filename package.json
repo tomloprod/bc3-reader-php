@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "BC3 reader",
   "author": "Tomas Lopez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomloprod/bc3-reader-php.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomloprod/bc3-reader-php/issues"
+  },
   "readmeFilename": "README.md",
   "license": "MIT"
 }
