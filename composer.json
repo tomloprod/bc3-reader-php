@@ -9,6 +9,7 @@
   "require": {
      "php": ">=5.1"
   },
+  "homepage": "https://github.com/tomloprod/bc3-reader-php",
   "license": "MIT",
   "authors": [
     {
