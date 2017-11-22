@@ -1,0 +1,8 @@
+{
+  "name": "bc3-reader-php",
+  "version": "1.0.0",
+  "description": "BC3 reader",
+  "author": "Tomas Lopez",
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}

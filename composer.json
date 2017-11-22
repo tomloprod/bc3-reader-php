@@ -1,0 +1,24 @@
+{
+  "name": "tomloprod/bc3-reader-php",
+  "description": "bc3-reader-php is a library that allows you to read BC3 files",
+  "keywords": [
+    "BC3",
+    "file",
+    "php"
+  ],
+  "require": {
+     "php": ">=5.1"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomas Lopez",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Tomloprod\\BC3Reader\\": "src/"
+    }
+  }
+}
